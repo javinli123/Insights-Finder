@@ -86,6 +86,6 @@ This repository is a personal working copy maintained by **Javin Li**.
 It is used for individual development, experimentation, and testing, and may differ from the official group submission.
 
 ### Acknowledgements
-**Course:** ENG EC 327 (Fall 2025) at Boston University
+**Course:** ENG EC 327 (Fall 2025) at Boston University  
 **Team:** statstack  
 **Note:** Developed as a group project in collaboration with three other students
