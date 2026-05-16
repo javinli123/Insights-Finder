@@ -81,12 +81,11 @@ This project uses **CMake** (3.10+) and **C++17**.
 - **LibCurl**: required to build and run the application (expected at `./libs/curl`)
 - **Google Test (GTest)**: required to build and run unit tests (`find_package(GTest REQUIRED)`)
 
-## Personal Copy
+## Project Context
 This repository is a personal working copy maintained by **Javin Li**.  
 It is used for individual development, experimentation, and testing, and may differ from the official group submission.
 
-### Contributors
-**Team name:** statstack  
-**Members:** Javin Li, Alyssa Lee, Camille Van Erp, Yanxi Yang
-
-Boston University — ENG EC 327 (Fall 2025)
+### Acknowledgements
+**Course:** ENG EC 327 (Fall 2025) at Boston University
+**Team:** statstack  
+**Note:** Developed as a group project in collaboration with three other students
