@@ -25,6 +25,15 @@ Ensuring that input data adheres to these requirements allows the algorithm to p
 ## HTML Report Generation
 Our Insight Generator also includes a feature that creates an HTML document presenting the findings in an aesthetically pleasing manner. 
 
+### Visual Output Examples
+Upon successful execution, the application generates an HTML report detailing the calculated correlations alongside a structured CSV data export of the processed entries:
+
+#### 1. Insight Analysis Results (HTML Report)
+![Insight Analysis Results](images/html-report-preview.png)
+
+#### 2. Persisted People Data Export (CSV Output)
+![Persisted People CSV](images/csv-export-preview.png)
+
 ## JsonPersonReader
 JsonPersonReader makes an HTTP call to a configurable URL, retrieves JSON data, and parses it into a vector of Person objects.
 ```cpp
